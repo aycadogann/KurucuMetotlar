@@ -1,2 +1,2 @@
 # KurucuMetotlar
-Kurucu Metotlarla ilgili alıştırma yapıldı
+Bu bir [patika.dev](https://www.patika.dev/tr) projesidir
